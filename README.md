@@ -1,5 +1,24 @@
-# 💫 About Me:
-Hello There! I’m Kriti ✨.<br><br>🔭 I’m currently diving into:<br>Exploring AI & web development (JS), with DSA running in parallel.<br><br>👯 I’m looking to collaborate on:<br>AI/ML projects and quirky apps (got an idea? Let’s build it together 🚀)<br><br>🤝 I’m looking for help with:<br>Understanding ML models and cybersecurity — curious where it leads ✨<br><br>🌱 I’m currently learning:<br>JS, Python, and diving deeper into AI/ML 🧠<br><br>💬 Ask me about:<br>AI/ML explorations and some web dev 😄<br>⚡ Fun fact:<br>When I’m not coding, you’ll usually find me dancing, sketching, or getting lost in some creative hobby — it keeps things fun and balanced 🎭✏️
+# 💫 About Me
+Hello there! I’m Kriti ✨
+
+## 🔭 I’m currently diving into:
+Exploring AI & web development (JS), with DSA running in parallel.
+
+## 👯 I’m looking to collaborate on:
+AI/ML projects and quirky apps  
+(got an idea? Let’s build it together 🚀)
+
+## 🤝 I’m looking for help with:
+Understanding ML models and cybersecurity — curious where it leads ✨
+
+## 🌱 I’m currently learning:
+JS, Python, and diving deeper into AI/ML 🧠
+
+## 💬 Ask me about:
+AI/ML explorations and some web dev 😄
+
+## ⚡ Fun fact:
+When I’m not coding, you’ll usually find me dancing, sketching, or getting lost in some creative hobby — it keeps things fun and balanced 🎭✏️
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kritisaraogi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kriti-saraogi-147635324) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kritisaraogi@gmail.com) 
