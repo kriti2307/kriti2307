@@ -2,7 +2,7 @@
 
 <img src="./banner.svg" width="100%" alt="kriti saraogi, building things and figuring it out as i go"/>
 
-<sub><code>cs undergrad @ manipal jaipur</code> &nbsp;·&nbsp; <code>ml · backend · dsa</code> &nbsp;·&nbsp; <code>somewhere between logic and a side quest</code></sub>
+&nbsp;·&nbsp; <code>somewhere between logic and a side quest</code></sub>
 
 </div>
 
@@ -25,8 +25,7 @@ I'm a second-year CS student who likes finding out how things actually work. Mos
 <a href="https://github.com/kriti2307"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="www.linkedin.com/in/kriti-saraogi-147635324"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/YOUR-X-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="mailto:kritisaraogi@gmail.com"><img src="https://img.shields.io/badge/PROTONMAIL-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail"/></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="mailto:kritisaraogi@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 </div>
 
