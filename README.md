@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f2027,50:203a43,100:2c5364&text=kriti%20saraogi&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=building%20things%20%26%20figuring%20it%20out%20as%20i%20go&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f2027,50:203a43,100:2c5364&text=kriti%20saraogi&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=building%20things%20%26%20figuring%20it%20out%20as%20i%20go&descSize=18&descAlignY=58" width="100%" alt="banner"/>
 
-<a href="https://github.com/kriti2307">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=520&lines=cs+undergrad+%40+manipal+jaipur;ml+%C2%B7+backend+%C2%B7+dsa;somewhere+between+logic+and+a+side+quest" alt="typing intro"/>
-</a>
+<sub><code>cs undergrad @ manipal jaipur</code> &nbsp;·&nbsp; <code>ml · backend · dsa</code> &nbsp;·&nbsp; <code>somewhere between logic and a side quest</code></sub>
 
 </div>
 
@@ -52,13 +50,14 @@ I'm a second-year CS student who likes finding out how things actually work. Mos
 
 <br>
 
-## ✦ stack
+## ✦ tech stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,react,nodejs,express,postgres,mysql,numpy,pandas,git,vercel&perline=7" alt="tech stack"/>
-
-</div>
+| | |
+|:--|:--|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
+| **Data & Machine Learning** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![librosa](https://img.shields.io/badge/librosa-5EEAD4?style=flat-square&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Database & Deployment** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 
 <br>
 
