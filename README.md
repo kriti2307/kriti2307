@@ -1,74 +1,82 @@
-# 💫 About Me
+<p align="center">
+  <sub>✷ &nbsp; vol. 02 &nbsp;·&nbsp; manipal university jaipur &nbsp;·&nbsp; cs, second year &nbsp; ✷</sub>
+</p>
 
-Hello there! I’m Kriti ✨
-
-I'm a CS undergrad exploring AI/ML, backend development, and DSA. I enjoy building quirky projects, understanding how things work under the hood, and occasionally going down technical rabbit holes.
-
-## 🔭 Currently Exploring
-
-AI/ML, JavaScript, and DSA — one project and one problem at a time.
-
-## 👯 Open to Collaborate On
-
-AI/ML projects and quirky apps. Got an interesting idea? Let's build something cool together 🚀
-
-## 🌱 Currently Learning
-
-Python, JavaScript, and diving deeper into AI/ML 🧠
-
-## ⚡ Outside the Terminal
-
-Psychological thrillers, Greek mythology, music, and collecting random interests like browser tabs.
-
----
-
-## 🌐 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kritisaraogi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kriti-saraogi-147635324)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kritisaraogi@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-
-**Web Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-
-**Data & Machine Learning**
-
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=matplotlib&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
-
-**Database & Deployment**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kriti2307&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kriti2307&theme=dracula&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kriti2307&theme=dracula&hide_border=true&layout=compact)
-
----
+<h1 align="center"><i>kriti saraogi</i></h1>
 
 <p align="center">
-  <i>still learning, still building, always curious ✷</i>
+  reads dostoevsky for fun, debugs as penance.<br>
+  <sub>ml, backend, and whichever rabbit hole is open today.</sub>
+</p>
+
+<p align="center">· &nbsp; · &nbsp; · &nbsp; ✷ &nbsp; · &nbsp; · &nbsp; ·</p>
+
+<br>
+
+### about
+
+I'm a second-year CS student at Manipal University Jaipur, mostly orbiting ML and backend, the part where you find out how things actually work. I've classified bird calls from spectrograms, put two self-driving cars through a game of chicken, and built a few websites along the way. I'm still deciding which corner of CS gets my full attention, so for now they all get a turn. Off-screen: crime fiction, Greek myth, and a playlist that runs from Biggie to Kendrick.
+
+<br>
+
+### selected work &nbsp;<sub>— reel one</sub>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><b>frame 01</b></sub><br>
+      <b><a href="https://github.com/kriti2307/Research">bird-call classification</a></b><br>
+      <sub>BirdCLEF 2024 + Xeno-canto recordings turned into mel-spectrograms, then fed to an EfficientNetV2-based classifier. Started with a binary two-species model and evaluated it before scaling up.</sub><br>
+      <sub><code>python</code> · <code>librosa</code> · <code>keras</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>frame 02</b></sub><br>
+      <b>autonomous vehicles, as a game of chicken</b><br>
+      <sub>Two cars, one intersection. Compares uncoordinated mixed-strategy play against FCFS and traffic-signal rules, using simulation and game theory to count crashes, clean crossings and deadlocks.</sub><br>
+      <sub><code>python</code> · <code>game theory</code> · <code>simulation</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><b>frame 03</b></sub><br>
+      <b>exoplanet classifier</b><br>
+      <sub>NASA/IPAC data, cleaned, explored and pushed through an ML classification workflow, with a Streamlit front end to poke at it.</sub><br>
+      <sub><code>pandas</code> · <code>scikit-style ML</code> · <code>streamlit</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>frame 04</b></sub><br>
+      <b>the web &amp; backend pile</b><br>
+      <sub>A fleet-management backend (Express, Prisma, PostgreSQL), a conference site on Vercel, event and hackathon sites, and CompliScan, a group project for analysing bank-relevant regulatory documents.</sub><br>
+      <sub><code>react</code> · <code>node</code> · <code>postgresql</code></sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### the index &nbsp;<sub>— tools i reach for</sub>
+
+| | |
+|---|---|
+| **languages** | Python · C++ · C · Java · JavaScript |
+| **ml & data** | NumPy · pandas · Matplotlib · librosa · Keras · Streamlit |
+| **web & backend** | HTML · CSS · React · Vite · Tailwind · Node.js · Express |
+| **data & tooling** | PostgreSQL · MySQL · Prisma · Git · GitHub · Vercel |
+
+<br>
+
+### the numbers, such as they are
+
+<p align="center">
+  <img alt="kriti's github stats" height="150" src="https://github-readme-stats.vercel.app/api?username=kriti2307&show_icons=true&hide_border=true&bg_color=00000000&title_color=a0525c&icon_color=a0525c&text_color=8a8078&hide=contribs" />
+</p>
+
+<br>
+
+<sub>
+✷ <b>footnotes</b> &nbsp;·&nbsp; 3rd place at AiroThon (Airolabs.ai) and a Student Excellence Award &nbsp;·&nbsp; IEEE and student-club projects &nbsp;·&nbsp; currently reading about Sisyphus, deciding he's probably fine.
+</sub>
+
+<p align="center">
+  <sub>still figuring it out, on purpose &nbsp;✷</sub>
 </p>
