@@ -17,7 +17,7 @@ I'm a second-year CS student who likes finding out how things actually work. Mos
 🔭 **exploring** &nbsp;ML on audio, backend systems, and a lot of DSA<br>
 🛠️ **building** &nbsp;a DSA stats dashboard and a deadline-catching Chrome extension<br>
 🤝 **open to** &nbsp;ML projects and odd little apps with a real purpose<br>
-🎧 **outside the terminal** &nbsp;psychological thrillers, Greek mythology, Biggie, Kendrick, Eminem
+🎧 **outside the terminal** &nbsp;When I’m not coding, you’ll usually find me dancing, sketching, or getting lost in some creative hobby
 
 <br>
 
