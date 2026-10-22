@@ -1,82 +1,76 @@
-<p align="center">
-  <sub>✷ &nbsp; vol. 02 &nbsp;·&nbsp; manipal university jaipur &nbsp;·&nbsp; cs, second year &nbsp; ✷</sub>
-</p>
+<div align="center">
 
-<h1 align="center"><i>kriti saraogi</i></h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f2027,50:203a43,100:2c5364&text=kriti%20saraogi&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=building%20things%20%26%20figuring%20it%20out%20as%20i%20go&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="banner"/>
 
-<p align="center">
-  reads dostoevsky for fun, debugs as penance.<br>
-  <sub>ml, backend, and whichever rabbit hole is open today.</sub>
-</p>
+<a href="https://github.com/kriti2307">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=520&lines=cs+undergrad+%40+manipal+jaipur;ml+%C2%B7+backend+%C2%B7+dsa;somewhere+between+logic+and+a+side+quest" alt="typing intro"/>
+</a>
 
-<p align="center">· &nbsp; · &nbsp; · &nbsp; ✷ &nbsp; · &nbsp; · &nbsp; ·</p>
+</div>
 
 <br>
 
-### about
-
-I'm a second-year CS student at Manipal University Jaipur, mostly orbiting ML and backend, the part where you find out how things actually work. I've classified bird calls from spectrograms, put two self-driving cars through a game of chicken, and built a few websites along the way. I'm still deciding which corner of CS gets my full attention, so for now they all get a turn. Off-screen: crime fiction, Greek myth, and a playlist that runs from Biggie to Kendrick.
+I'm a second-year CS student who likes finding out how things actually work. Most of my time goes into ML, backend and DSA, with a steady stream of side projects: bird-call classifiers, self-driving cars playing chicken, dashboards nobody asked for. I'm still working out which corner of CS I want to go deep on, so for now I'm trying all of them.
 
 <br>
 
-### selected work &nbsp;<sub>— reel one</sub>
+🔭 **exploring** &nbsp;ML on audio, backend systems, and a lot of DSA<br>
+🛠️ **building** &nbsp;a DSA stats dashboard and a deadline-catching Chrome extension<br>
+🤝 **open to** &nbsp;ML projects and odd little apps with a real purpose<br>
+🎧 **outside the terminal** &nbsp;psychological thrillers, Greek mythology, Biggie, Kendrick, Eminem
+
+<br>
+
+## ✦ things i've made
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub><b>frame 01</b></sub><br>
-      <b><a href="https://github.com/kriti2307/Research">bird-call classification</a></b><br>
-      <sub>BirdCLEF 2024 + Xeno-canto recordings turned into mel-spectrograms, then fed to an EfficientNetV2-based classifier. Started with a binary two-species model and evaluated it before scaling up.</sub><br>
-      <sub><code>python</code> · <code>librosa</code> · <code>keras</code></sub>
+      <h3><a href="https://github.com/kriti2307/Research">🐦 bird-call classifier</a></h3>
+      Turns BirdCLEF / Xeno-canto audio into mel-spectrograms and classifies species with an EfficientNetV2-based model.
+      <br><br><sub><code>python</code> · <code>librosa</code> · <code>keras</code></sub>
     </td>
     <td width="50%" valign="top">
-      <sub><b>frame 02</b></sub><br>
-      <b>autonomous vehicles, as a game of chicken</b><br>
-      <sub>Two cars, one intersection. Compares uncoordinated mixed-strategy play against FCFS and traffic-signal rules, using simulation and game theory to count crashes, clean crossings and deadlocks.</sub><br>
-      <sub><code>python</code> · <code>game theory</code> · <code>simulation</code></sub>
+      <h3><a href="https://github.com/kriti2307/Dsa-Dashboard">📊 universal dsa dashboard</a></h3>
+      One place for LeetCode and Codeforces stats: topic breakdown and duplicate-problem detection across platforms.
+      <br><br><sub><code>dashboard</code> · <code>apis</code> · <code>dsa</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub><b>frame 03</b></sub><br>
-      <b>exoplanet classifier</b><br>
-      <sub>NASA/IPAC data, cleaned, explored and pushed through an ML classification workflow, with a Streamlit front end to poke at it.</sub><br>
-      <sub><code>pandas</code> · <code>scikit-style ML</code> · <code>streamlit</code></sub>
+      <h3>🚗 av intersection game</h3>
+      Two autonomous cars at an intersection modelled as a Game of Chicken: crashes, smooth crossings and deadlocks under different rules.
+      <br><br><sub><code>python</code> · <code>game theory</code> · <code>simulation</code></sub>
     </td>
     <td width="50%" valign="top">
-      <sub><b>frame 04</b></sub><br>
-      <b>the web &amp; backend pile</b><br>
-      <sub>A fleet-management backend (Express, Prisma, PostgreSQL), a conference site on Vercel, event and hackathon sites, and CompliScan, a group project for analysing bank-relevant regulatory documents.</sub><br>
-      <sub><code>react</code> · <code>node</code> · <code>postgresql</code></sub>
+      <h3>🪄 pip</h3>
+      A small Chrome extension that catches deadlines before they catch me. Still being built.
+      <br><br><sub><code>javascript</code> · <code>chrome extension</code></sub>
     </td>
   </tr>
 </table>
 
 <br>
 
-### the index &nbsp;<sub>— tools i reach for</sub>
+## ✦ stack
 
-| | |
-|---|---|
-| **languages** | Python · C++ · C · Java · JavaScript |
-| **ml & data** | NumPy · pandas · Matplotlib · librosa · Keras · Streamlit |
-| **web & backend** | HTML · CSS · React · Vite · Tailwind · Node.js · Express |
-| **data & tooling** | PostgreSQL · MySQL · Prisma · Git · GitHub · Vercel |
+<div align="center">
 
-<br>
+<img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,react,nodejs,express,postgres,mysql,numpy,pandas,git,vercel&perline=7" alt="tech stack"/>
 
-### the numbers, such as they are
-
-<p align="center">
-  <img alt="kriti's github stats" height="150" src="https://github-readme-stats.vercel.app/api?username=kriti2307&show_icons=true&hide_border=true&bg_color=00000000&title_color=a0525c&icon_color=a0525c&text_color=8a8078&hide=contribs" />
-</p>
+</div>
 
 <br>
 
-<sub>
-✷ <b>footnotes</b> &nbsp;·&nbsp; 3rd place at AiroThon (Airolabs.ai) and a Student Excellence Award &nbsp;·&nbsp; IEEE and student-club projects &nbsp;·&nbsp; currently reading about Sisyphus, deciding he's probably fine.
-</sub>
+## ✦ stats
 
-<p align="center">
-  <sub>still figuring it out, on purpose &nbsp;✷</sub>
-</p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kriti2307&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=5eead4&icon_color=5eead4&text_color=9aa5b1&hide=contribs" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriti2307&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=5eead4&text_color=9aa5b1" alt="top languages"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:2c5364,50:203a43,100:0f2027&section=footer" width="100%" alt=""/>
+
+</div>
