@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f2027,50:203a43,100:2c5364&text=kriti%20saraogi&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=building%20things%20%26%20figuring%20it%20out%20as%20i%20go&descSize=18&descAlignY=58" width="100%" alt="banner"/>
+<img src="./banner.svg" width="100%" alt="kriti saraogi, building things and figuring it out as i go"/>
 
 <sub><code>cs undergrad @ manipal jaipur</code> &nbsp;·&nbsp; <code>ml · backend · dsa</code> &nbsp;·&nbsp; <code>somewhere between logic and a side quest</code></sub>
 
@@ -16,10 +16,21 @@ I'm a second-year CS student who likes finding out how things actually work. Mos
 🛠️ **building** &nbsp;a DSA stats dashboard and a deadline-catching Chrome extension<br>
 🤝 **open to** &nbsp;ML projects and odd little apps with a real purpose<br>
 🎧 **outside the terminal** &nbsp;When I’m not coding, you’ll usually find me dancing, sketching, or getting lost in some creative hobby
-
 <br>
 
-## ✦ things i've made
+## ✦ connect
+
+<div align="center">
+
+<a href="https://github.com/kriti2307"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="www.linkedin.com/in/kriti-saraogi-147635324"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/YOUR-X-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="mailto:kritisaraogi@gmail.com"><img src="https://img.shields.io/badge/PROTONMAIL-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail"/></a>
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+
+</div>
+
+## ✦ top projects <sub>(built to avoid manual labour)</sub>
 
 <table>
   <tr>
@@ -70,8 +81,7 @@ I'm a second-year CS student who likes finding out how things actually work. Mos
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=kriti2307&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=5eead4&icon_color=5eead4&text_color=9aa5b1&hide=contribs" alt="stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriti2307&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=5eead4&text_color=9aa5b1" alt="top languages"/>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:2c5364,50:203a43,100:0f2027&section=footer" width="100%" alt=""/>
-
 </div>
+
+<br>
+
