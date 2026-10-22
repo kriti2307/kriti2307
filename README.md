@@ -2,7 +2,7 @@
 
 Kriti Saraogi
 
-&nbsp;·&nbsp; <code>somewhere between logic and a side quest</code></sub>
+&nbsp;&nbsp; <code>somewhere between logic and a side quest</code></sub>
 
 </div>
 
