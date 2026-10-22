@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="kriti saraogi, building things and figuring it out as i go"/>
+Kriti Saraogi
 
 &nbsp;·&nbsp; <code>somewhere between logic and a side quest</code></sub>
 
