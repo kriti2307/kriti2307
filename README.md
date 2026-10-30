@@ -35,30 +35,28 @@ Third-year CS student, usually found somewhere between ML, backend, DSA, and a r
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/kriti2307/Research">🐦 bird-call classifier</a></h3>
-      Turns BirdCLEF / Xeno-canto audio into mel-spectrograms and classifies species with an EfficientNetV2-based model.
+      Exploring bird species classification by converting BirdCLEF / Xeno-canto audio into mel-spectrograms and training an EfficientNetV2-based model.
       <br><br><sub><code>python</code> · <code>librosa</code> · <code>keras</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/kriti2307/Dsa-Dashboard">📊 universal dsa dashboard</a></h3>
-      One place for LeetCode and Codeforces stats: topic breakdown and duplicate-problem detection across platforms.
-      <br><br><sub><code>dashboard</code> · <code>apis</code> · <code>dsa</code></sub>
+      <h3>🕷️ spidey — adobe hackathon</h3>
+      A website auditing tool that crawls websites, analyses their content and technical health, and generates audit reports.
+      <br><br><sub><code>python</code> · <code>node.js</code> · <code>playwright</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚗 av intersection game</h3>
-      Two autonomous cars at an intersection modelled as a Game of Chicken: crashes, smooth crossings and deadlocks under different rules.
-      <br><br><sub><code>python</code> · <code>game theory</code> · <code>simulation</code></sub>
+      <h3><a href="https://github.com/kriti2307/Dsa-Dashboard">📊 universal dsa dashboard</a></h3>
+      A unified dashboard for LeetCode and Codeforces stats, with topic-wise breakdowns, progress tracking and duplicate-problem detection across platforms.
+      <br><br><sub><code>react</code> · <code>node.js</code> · <code>postgresql</code> · <code>apis</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🪄 pip</h3>
-      A small Chrome extension that catches deadlines before they catch me. Still being built.
-      <br><br><sub><code>javascript</code> · <code>chrome extension</code></sub>
+      <h3><a href="https://github.com/kriti2307/ACIFFS">🌐 aciffs conference website</a></h3>
+      Built and deployed a conference website with a React frontend, responsive UI and backend integration.
+      <br><br><sub><code>react</code> · <code>vite</code> · <code>tailwind</code> · <code>node.js</code></sub>
     </td>
   </tr>
 </table>
-
-<br>
 
 ## ✦ skill set
 
