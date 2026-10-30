@@ -8,13 +8,13 @@ Kriti Saraogi
 
 <br>
 
-I'm a second-year CS student who likes finding out how things actually work. Most of my time goes into ML, backend and DSA, with a steady stream of side projects: bird-call classifiers, self-driving cars playing chicken, dashboards nobody asked for. I'm still working out which corner of CS I want to go deep on, so for now I'm trying all of them.
+Third-year CS student, usually found somewhere between ML, backend, DSA, and a rabbit hole I didn't plan on falling into. I love building things, experimenting with new technologies, and exploring ideas that make me ask way too many questions. Getting something to work is great, but understanding what's happening under the hood is even better. Always curious, always tinkering, and probably working on something unnecessary but interesting.
 
 <br>
 
 🔭 **exploring** &nbsp;ML on audio, backend systems, and a lot of DSA<br>
-🛠️ **building** &nbsp;a DSA stats dashboard and a deadline-catching Chrome extension<br>
-🤝 **open to** &nbsp;ML projects and odd little apps with a real purpose<br>
+🛠️ **building** &nbsp; things across AI/ML, computer vision, and systems programming<br>
+🤝 **open to** &nbsp; AI/ML, computer vision, systems programming, and BCI-related projects<br>
 🎧 **outside the terminal** &nbsp;When I’m not coding, you’ll usually find me dancing, sketching, or getting lost in some creative hobby
 <br>
 
