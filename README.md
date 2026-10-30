@@ -39,7 +39,7 @@ Third-year CS student, usually found somewhere between ML, backend, DSA, and a r
       <br><br><sub><code>python</code> · <code>librosa</code> · <code>keras</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🕷️ spidey — adobe hackathon</h3>
+      <h3><a href = "https://github.com/kriti2307/Spidey">🕷️ spidey — adobe hackathon</h3>
       A website auditing tool that crawls websites, analyses their content and technical health, and generates audit reports.
       <br><br><sub><code>python</code> · <code>node.js</code> · <code>playwright</code></sub>
     </td>
