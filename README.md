@@ -65,13 +65,17 @@ Third-year CS student, usually found somewhere between ML, backend, DSA, and a r
 | Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
 
 <br>
-
 ## ✦ stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kriti2307&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=5eead4&icon_color=5eead4&text_color=9aa5b1&hide=contribs" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriti2307&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=5eead4&text_color=9aa5b1" alt="top languages"/>
+<img height="165"
+src="https://github-stats-extended.vercel.app/api?username=kriti2307&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=5eead4&icon_color=5eead4&text_color=9aa5b1&hide=contribs"
+alt="GitHub stats"/>
+
+<img height="165"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=kriti2307&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=5eead4&text_color=9aa5b1"
+alt="Top languages"/>
 
 </div>
 
