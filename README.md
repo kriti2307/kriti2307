@@ -1,12 +1,7 @@
-<div align="center">
-
-Kriti Saraogi
-
-&nbsp;&nbsp; <code>somewhere between logic and a side quest</code></sub>
-
-</div>
-
-<br>
+<h1 align="center">Kriti Saraogi ✦</h1>
+<p align="center">
+  <code>somewhere between logic and a side quest</code>
+</p>
 
 Third-year CS student, usually found somewhere between ML, backend, DSA, and a rabbit hole I didn't plan on falling into. I love building things, experimenting with new technologies, and exploring ideas that make me ask way too many questions. Getting something to work is great, but understanding what's happening under the hood is even better. Always curious, always tinkering, and probably working on something unnecessary but interesting.
 
