@@ -67,17 +67,15 @@ Third-year CS student, usually found somewhere between ML, backend, DSA, and a r
 <br>
 ## ✦ stats
 
-<div align="center">
-
-<img height="165"
-src="https://github-stats-extended.vercel.app/api?username=kriti2307&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=5eead4&icon_color=5eead4&text_color=9aa5b1&hide=contribs"
-alt="GitHub stats"/>
-
-<img height="165"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=kriti2307&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=5eead4&text_color=9aa5b1"
-alt="Top languages"/>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=kriti2307&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=5eead4&icon_color=5eead4&text_color=9aa5b1&hide=contribs&card_width=400" width="100%" alt="GitHub stats"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kriti2307&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=5eead4&text_color=9aa5b1&card_width=400" width="100%" alt="Top languages"/>
+    </td>
+  </tr>
+</table>
 
 <br>
-
